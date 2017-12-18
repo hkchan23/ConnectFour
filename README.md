@@ -1,14 +1,11 @@
 # ConnectFour
 Implement a Connect Four game.
 
-__Source Code__
-src
+## Source Code
+You can find under "src" directory
 
-__Unit Test__
-test
+## Unit Test
+You can find under "test" directory
 
-__Binary__
-bin
-
-__Run__
-In bin directory, run java Game
+## Run
+In "bin" directory, run java Game
