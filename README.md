@@ -1,6 +1,9 @@
 # ConnectFour
 Implement a Connect Four game.
 
+## Pre Requisites
+JDK 7 or above
+
 ## Source Code
 You can find under "src" directory
 
